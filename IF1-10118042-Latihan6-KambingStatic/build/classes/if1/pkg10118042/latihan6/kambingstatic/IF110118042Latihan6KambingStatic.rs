@@ -1,0 +1,3 @@
+if1.pkg10118042.latihan6.kambingstatic.IF110118042Latihan4Kambing
+if1.pkg10118042.latihan6.kambingstatic.IF110118042Latihan6KambingStatic
+if1.pkg10118042.latihan6.kambingstatic.Mamalia
